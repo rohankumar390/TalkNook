@@ -1,4 +1,5 @@
 {
+  "homepage":"https://rohankumar390.github.io/TalkNook",
   "dependencies": {
     "react-player": "^2.12.0"
   },
