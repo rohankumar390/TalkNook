@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "react-player": "^2.12.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
